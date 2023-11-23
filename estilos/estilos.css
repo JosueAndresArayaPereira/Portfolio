@@ -1,0 +1,35 @@
+details p{
+    color: blue;
+    padding-left: 10px;
+}
+details:hover{
+    transform: scale(1.03) rotate(1deg);
+}
+body{
+    color: rgb(255, 255, 255) ;
+    background: rgb(28, 11, 44);
+}
+a{
+    color: rgb(160, 160, 160) ;
+}
+a:hover{
+    color: rgb(255, 255, 255) ;
+}
+#lenguajes p{
+    background: rgba(255, 255, 255, 0.26);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0);
+}
+#lenguajes p:hover{
+    transform: scale(1.05);
+}
+footer label{
+    background: rgba(255, 255, 255, 0.26);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0);
+}
+footer label:hover{
+    transform: scale(1.05);
+}
